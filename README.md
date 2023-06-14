@@ -8,7 +8,7 @@ The ML Specialization course, led by renowned professor and researcher Andrew Ng
 
 **Contents**
 
-- Code: Python notebooks and scripts containing the code for the assignments and projects covered in the course. It includes implementations of various ML algorithms, such as linear regression, logistic regression, decision trees, support vector machines (SVM), k-means clustering, neural networks, and convolutional neural networks (CNN).
+- Code: Python notebooks and scripts containing the code for the assignments and projects covered in the course. It includes implementations of various ML algorithms, such as linear regression, logistic regression, decision trees, k-means clustering, neural networks, and neural network.
 - Assignments: Detailed assignment instructions and solutions showcasing the application of ML algorithms and techniques.
 - Projects: Hands-on projects demonstrating the implementation of ML algorithms and models on real-world datasets.
 - Lecture Notes: Supplementary lecture notes and slides provided during the course.
