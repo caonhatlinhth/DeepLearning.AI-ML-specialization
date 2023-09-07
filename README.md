@@ -1,10 +1,11 @@
 **Machine Learning Specialization Course by Andrew Ng**
 
-<summary>Show Certificate</summary><p>
-
-      [<img src="![image](https://github.com/caonhatlinhth/DeepLearning.AI-ML-specialization/assets/62228403/b2ba4d27-f53f-4f3d-8d50-a9d71d92d089)" />](https://coursera.org/verify/4WL4PB9D583Q)
-
-  </p></details>
+<details>
+  <summary>Show Certificate</summary>
+  
+  [<img src="https://github.com/caonhatlinhth/DeepLearning.AI-ML-specialization/assets/62228403/b2ba4d27-f53f-4f3d-8d50-a9d71d92d089" alt="Certificate Image" />](https://coursera.org/verify/4WL4PB9D583Q)
+  
+</details>
 
 This repository contains the code and materials for the Machine Learning (ML) Specialization course by Andrew Ng. The course covers a wide range of topics related to supervised learning, unsupervised learning, and advanced algorithms, including hands-on implementation using Python and TensorFlow.
 
